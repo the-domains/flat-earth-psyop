@@ -1,0 +1,28 @@
+name: Flat Earth - Psyop
+favicon: null
+layout_spectrum: 0.07074119825847447
+typography_spectrum: 0.7945780206937343
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.21419843169860542
+  lightness: 0.0719731745775789
+  saturation: 0.9930176371708512
+  rhythmicContrast: 0.31872752006165683
+purpose: []
