@@ -1,6 +1,6 @@
 name: Flat Earth Psy
 favicon: null
-layout_spectrum: 0.07074119825847447
+layout_spectrum: 0.88677
 typography_spectrum: 0.7945780206937343
 title: Exposing the Flat Earth PsyOp
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.21419843169860542
-  lightness: 0.0719731745775789
-  saturation: 0.9930176371708512
-  rhythmicContrast: 0.31872752006165683
+    - '#ffffff'
+    - '#133b52'
+    - '#a4a4a4'
+    - '#8a8954'
+    - '#dcc59d'
+  brandStrength: 0.3125
+  lightness: 0.375
+  saturation: 0.125
+  rhythmicContrast: 0.5
 purpose: []
